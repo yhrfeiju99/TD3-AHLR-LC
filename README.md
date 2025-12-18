@@ -1,5 +1,5 @@
 # TD3-AHLR-LC
-This repository contains the code implementation of the TD3-based lane change control model proposed in the paper *Reinforcement Learning-Based Lane Change Maneuvers Guided by Adaptive Human-Like Behavior Rewards* (Hongru Yu et al.).
+This repository contains the code implementation of the TD3-based lane change control model proposed in the paper *Multi-Objective Deep Reinforcement Learning-Driven Human-Like Lane-Changing Model in a Dynamic Interaction-Aware Connected Environment* (Hongru Yu et al.).
 Note: This code is a demo version, and its content may be updated in the future.
 
 
@@ -70,8 +70,8 @@ Reliability: 100% collision-free lane changes in all test scenarios.
 If you use this code in your research, please cite the original paper:
 
 @article{yu202Xrlanechange,
-  title={Reinforcement Learning-Based Lane Change Maneuvers Guided by Adaptive Human-Like Behavior Rewards},
-  author={Hongru Yu and Yuanli Gu and Jie Yang and Wenqi Lu and Shejun Deng and Bin Ran},
+  title={Multi-Objective Deep Reinforcement Learning-Driven Human-Like Lane-Changing Model in a Dynamic Interaction-Aware Connected Environment},
+  author={Hongru Yu and Yuanli Gu and Jie Yang and Zhengfei Zheng and Bingjie Liang and Wenqi Lu and Shejun Deng and Bin Ran},
   journal={[Journal},
   year={202X},
   volume={[Volume]},
