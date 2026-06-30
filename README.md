@@ -71,8 +71,8 @@ If you use this code in your research, please cite the original paper:
 
 @article{yu202Xrlanechange,
   title={Multi-Objective Deep Reinforcement Learning-Driven Human-Like Lane-Changing Model in a Dynamic Interaction-Aware Connected Environment},
-  author={Hongru Yu and Yuanli Gu and Jie Yang and Zhengfei Zheng and Bingjie Liang and Wenqi Lu and Shejun Deng and Bin Ran},
-  journal={[Journal},
+  author={[Author]},
+  journal={[Journal]},
   year={202X},
   volume={[Volume]},
   number={[Number]},
